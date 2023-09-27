@@ -1,0 +1,17 @@
+---
+:id: 127182404
+:submitters:
+- :name: Christopher Alberto Pineda
+  :email: christopher.pineda59@myhunter.cuny.edu
+- :name: Warren B Ball
+  :email: warren.ball80@myhunter.cuny.edu
+- :name: Jason Wang
+  :email: jason.wang22@myhunter.cuny.edu
+- :name: Andreas Constantinou
+  :email: andreas.constantinou64@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-05-24 15:11:57.351836000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-05-24 08:11:57.351836000 Z
+:status: processed
